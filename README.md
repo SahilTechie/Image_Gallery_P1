@@ -17,7 +17,7 @@ This is a responsive image gallery created using only HTML and CSS. The focus is
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3 (Flexbox)
-- Google Fonts (if used)
+- HTML
+- CSS (Flexbox)
+- Google Fonts 
 
